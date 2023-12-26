@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(238, 117, 117);
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50%;
+    height: 100%;
+}
+
+#banner {
+    color: rgb(172, 201, 226);
+}
+
+#clock {
+    background-color: rgb(162, 199, 16);
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    color: rgb(14, 12, 11);
+    text-align: center;
+    padding-top:1rem;
+}
